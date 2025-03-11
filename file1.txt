@@ -1,0 +1,5 @@
+This is going to be our first file using git.
+there are three areas in a git 
+1)working directory which in which all our files our there
+2)staging area in which we upload files which we want to upload in git in the future
+3)the git repositary
